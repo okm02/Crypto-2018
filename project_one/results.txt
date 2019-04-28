@@ -1,0 +1,11 @@
+Sciper=281141
+Worked with (list all): Shengzhao Lei
+Q1="00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000da2fd434718e8d36bc04149347669a8736c9403a35735eab8aae74cee1b995"
+
+Q2= "This is the secret message that you suppose to recover. Since you are reading this text, you have very high probability to get 1 point from this question. Anyway, your secret word is prefabricates."
+
+Q3= "we only need a text which is long enough to prevent the decryption without using a program since one can try to decrypt by their hand as we are giving the decryption key that you can use for the decryption similar to the previous exercises you have some random words like backhoes and gamut initially you had very low probability to have backhoes and gamut as your random words but now the probability that backhoes and gamut are your random words is one"
+
+Q4="000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000001333e"
+Q5a= [0,0,1,0,1]
+Q5b="your secret message is emanated"
